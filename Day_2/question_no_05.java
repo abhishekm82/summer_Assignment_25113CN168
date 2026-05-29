@@ -5,7 +5,7 @@ public class question_no_05 {
         //to find the sum of the digits of given number.
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("ENter the number : ");
+        System.out.print("Enter the number : ");
         int n = sc.nextInt();
         int rem, sum = 0;
 
