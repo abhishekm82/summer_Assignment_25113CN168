@@ -1,4 +1,5 @@
 package Day_3;
+
 import java.util.*;
 public class question_no_09 {
     public static void main(String[] args) {
