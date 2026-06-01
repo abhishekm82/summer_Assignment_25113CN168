@@ -7,7 +7,7 @@ public class question_no_13 {
         //to print fibonacci series.
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the limit : ");
+        System.out.print("Enter the range : ");
         int n = sc.nextInt();
 
         int a = 0, b = 1, sum;
