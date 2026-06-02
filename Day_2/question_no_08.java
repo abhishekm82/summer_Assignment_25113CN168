@@ -11,7 +11,7 @@ public class question_no_08 {
         int digit, rev = 0;
         int n_cpy = n;
         
-        while(n_cpy > 0){
+        while(n_cpy != 0){
             digit = n_cpy % 10;
             rev = rev*10 + digit;
             n_cpy /= 10;
