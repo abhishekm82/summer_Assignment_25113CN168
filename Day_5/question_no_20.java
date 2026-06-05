@@ -4,6 +4,8 @@ import java.util.*;
 public class question_no_20 {
     public static void main(String[] args) {
 
+        //to find largest prime factor of given numbwr.
+        
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number : ");
         int num = sc.nextInt();
